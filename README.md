@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+![](img/vue.png)
+
+
+
 ## Build Setup
 
 ``` bash
