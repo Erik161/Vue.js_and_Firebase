@@ -5,7 +5,6 @@
 ![](img/vue.png)
 
 
-
 ## Build Setup
 
 ``` bash
