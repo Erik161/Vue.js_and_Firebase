@@ -1,6 +1,5 @@
-# vuejs-firebase
+# VueJs - Firebase
 
-> A Vue.js project
 
 ![](img/vue.png)
 
